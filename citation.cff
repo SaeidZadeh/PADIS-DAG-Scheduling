@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Alirezazadeh
+    given-names: Saeid
+    orcid: "https://orcid.org/0000-0002-4440-7211"
+  - family-names: Alibabaei
+    given-names: Khadijeh
+    orcid: "https://orcid.org/0000-0002-2319-8211"
+  - family-names: Rodrigues
+    given-names: Nuno
+    orcid: "https://orcid.org/0000-0002-0953-6018"
+  - family-names: Pereira
+    given-names: António
+    orcid: "https://orcid.org/0000-0001-5062-1241"
+title: "PADIS: Precedence-Aware Deadline-Impact Scheduling"
+version: 1.0.0
+date-released: 2025-01-01
+url: "https://github.com/YOUR_USERNAME/PADIS-DAG-Scheduling"
