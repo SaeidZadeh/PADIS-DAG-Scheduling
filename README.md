@@ -21,4 +21,22 @@ Two variants are provided:
 - **PADIS-ZC** — zero inter-processor communication (used for baseline comparison)
 - **PADIS-CA** — communication-aware (see paper Section 4)
 
-## Repository structure
+## Requirements
+
+- R ≥ 4.0
+- CRAN packages: `plot3D`, `vioplot`, `matrixStats`
+- Bioconductor packages: `pcalg`, `Rgraphviz`
+
+Install all dependencies by running:
+
+```r
+source("padis.R")   # auto-installs on first run
+```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
+
+## Contact
+
+Saeid Alirezazadeh — saeid.alirezazadeh@gmail.com
